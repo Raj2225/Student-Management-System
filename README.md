@@ -1,6 +1,6 @@
 # Student Management System (Python + MySQL)
 
-## 📌 Description
+## => Description
 A Python-based Student Management System using **Tkinter** for GUI and **MySQL** for database.
 The system performs full CRUD operations:
 - Add Student
@@ -8,17 +8,17 @@ The system performs full CRUD operations:
 - Update Student
 - Delete Student
 
-## 🛠️ Technologies Used
+## => Technologies Used
 - Python
 - Tkinter
 - MySQL
 - mysql-connector-python
 
-## ⚙️ Features
+## => Features
 - User-friendly GUI
 - Database connectivity
 - Real-time record update
 - Treeview table display
 
-## 🚀 How to Run
+## => How to Run
 1. Install dependencies:
